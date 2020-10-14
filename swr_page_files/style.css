@@ -9,12 +9,12 @@
 .info   {
 	vertical-align: middle;
 	display: table-cell;
-	height: 300px;
+	height: 340px;
 }
 .pic {
 	display: inline;
 	float: left;
-	width: 250px;
+	width: 300px;
 }
 .section {
 	clear: both;
@@ -26,4 +26,5 @@
 
 h1 {
 	color: rgba(55,71,79,1);
+	font-size: 40px
 }
