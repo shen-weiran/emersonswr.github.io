@@ -9,12 +9,12 @@
 .info   {
 	vertical-align: middle;
 	display: table-cell;
-	height: 340px;
+	height: 400px;
 }
 .pic {
 	display: inline;
 	float: left;
-	width: 300px;
+	width: 350px;
 }
 .section {
 	clear: both;
